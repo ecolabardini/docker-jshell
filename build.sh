@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker build -t docker-jshell .
+docker build -t ecolabardini/jdk9 .
