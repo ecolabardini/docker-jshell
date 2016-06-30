@@ -19,6 +19,4 @@ Please contact me if you have any ideas, suggestions or, even better, you want t
 
 ## License
 
-Erlang is distributed under the [Erlang Public License](http://www.erlang.org/EPLICENSE).
-
 This repository is licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
