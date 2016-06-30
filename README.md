@@ -1,7 +1,7 @@
 # docker-jshell
 A docker project to bring up jshell from jdk9
 
-#### Run as an interactive shell
+#### Run as [REPL](https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop)
 
 ```
   $ docker run -it ecolabardini/jdk9 jshell
